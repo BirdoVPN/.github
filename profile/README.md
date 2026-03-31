@@ -27,14 +27,6 @@ Verification guides are in each repo's docs/ folder.
 
 Found a vulnerability? Email **security@birdo.app** (PGP key on website).
 
-### Links
-
-- [birdovpn.com](https://birdovpn.com) -- Website & Dashboard
-- [Blog](https://birdovpn.com/blog) -- Development updates
-- [Warrant Canary](https://birdovpn.com/canary) -- Transparency report
-- [Privacy Policy](https://birdovpn.com/privacy) -- No-log commitment
-- [Roadmap](https://birdovpn.com/roadmap) -- What's next
-
 <div align="center">
 
 *Built with paranoia. Shipped with pride.*
