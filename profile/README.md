@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://birdovpn.com/birdo-icon.png" alt="Birdo VPN" width="80" />
-
 # Birdo VPN
 
 **Privacy-first VPN built by a solo developer. No logs. No trackers. No corporate owners.**
