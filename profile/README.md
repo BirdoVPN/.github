@@ -20,15 +20,6 @@ Open-source clients for every platform -- powered by WireGuard with post-quantum
 | [Desktop-Client](https://github.com/BirdoVPN/Desktop-Client) | Windows, macOS, Linux | Rust, Tauri v2, React | Native desktop VPN client with WFP kill switch, split tunneling, multi-hop, stealth mode |
 | [Mobile-Client](https://github.com/BirdoVPN/Mobile-Client) | Android, iOS | Kotlin Multiplatform, SwiftUI | Native mobile VPN client with biometric lock, quick-settings tile, home screen widgets |
 
-### What makes Birdo different
-
-- **Zero-log architecture** -- no activity logs, no DNS logs, no traffic metadata. RAM-only server config.
-- **Post-quantum encryption** -- Rosenpass key exchange (Classic McEliece + Kyber) layered on WireGuard.
-- **Stealth mode** -- XRAY Reality (VLESS + XTLS) obfuscation bypasses deep packet inspection.
-- **Solo-operated** -- no corporate parent, no investors, no board of directors. One developer, full transparency.
-- **Fully open-source** -- every client app is GPLv3. Audit the code that protects your traffic.
-- **Sigstore-signed releases** -- every binary is signed with keyless Sigstore for verifiable provenance.
-
 ### Security
 
 All client releases are signed with [Sigstore](https://sigstore.dev) for supply-chain integrity.
