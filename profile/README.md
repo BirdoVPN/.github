@@ -25,10 +25,9 @@ Open-source clients for every platform -- powered by WireGuard with post-quantum
 All client releases are signed with [Sigstore](https://sigstore.dev) for supply-chain integrity.
 Verification guides are in each repo's docs/ folder.
 
-Found a vulnerability? Email **security@birdo.app** (PGP key on website).
+Found a vulnerability? Email **security@birdo.app**.
 
 <div align="center">
-
 *Built with paranoia. Shipped with pride.*
 
 </div>
