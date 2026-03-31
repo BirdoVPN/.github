@@ -1,5 +1,10 @@
 <div align="center">
+  
 # Birdo VPN
+
+</div>
+
+<div align="center">
 
 **Privacy-first VPN built by a solo developer. No logs. No trackers. No corporate owners.**
 
@@ -27,7 +32,8 @@ Verification guides are in each repo's docs/ folder.
 
 Found a vulnerability? Email **security@birdo.app**.
 
-<div align="center">
-*Built with paranoia. Shipped with pride.*
 
+<div align="center">
+
+  ***Built with paranoia. Shipped with pride.***
 </div>
