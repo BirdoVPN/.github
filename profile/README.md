@@ -10,9 +10,9 @@
 
 Open-source clients for every platform -- powered by WireGuard with post-quantum encryption.
 
-[![Website](https://img.shields.io/badge/Website-birdovpn.com-0a0a0a?style=flat-square)](https://birdovpn.com)
+[![Website](https://img.shields.io/badge/Website-birdo.app-0a0a0a?style=flat-square)](https://birdo.app)
 [![License](https://img.shields.io/badge/License-GPLv3-blue?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.html)
-[![Warrant Canary](https://img.shields.io/badge/Warrant_Canary-Active-emerald?style=flat-square)](https://birdovpn.com/canary)
+[![Warrant Canary](https://img.shields.io/badge/Warrant_Canary-Active-emerald?style=flat-square)](https://birdo.app/canary)
 
 </div>
 
